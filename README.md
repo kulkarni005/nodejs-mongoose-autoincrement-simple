@@ -1,4 +1,4 @@
-# mongoose-autoincrement-simple
+# nodejs-mongoose-autoincrement-simple
 Simple Mongoose AutoIncrement Implementation , No Plugin Required.
 
 
